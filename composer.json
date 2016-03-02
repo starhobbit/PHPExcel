@@ -23,7 +23,6 @@
         {
             "name": "Alex Starostin"
         }
-        }
     ],
     "require": {
         "php": "^5.2|^7.0",
